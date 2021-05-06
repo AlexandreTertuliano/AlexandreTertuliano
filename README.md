@@ -14,7 +14,7 @@
 
 <br />
 
-Olá, Eu sou o  [Alexandre Tertuliano], sou desenvolvedor web e mobile. Estou a cada dia me aprofundando nas tecnologias que utilizo para levar ao usuário a melhor experiência possível.
+Olá, Eu sou o Alexandre Tertuliano, sou desenvolvedor web e mobile. Estou a cada dia me aprofundando nas tecnologias que utilizo para levar ao usuário a melhor experiência possível.
 
 Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes, sempre trazendo novidades e usabilidade de fácil entendimento.
 
@@ -34,12 +34,15 @@ Minha paixão por software é sonhar com ideias e torná-las realidade com inter
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/hmtl.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
