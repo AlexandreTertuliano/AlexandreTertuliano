@@ -2,7 +2,7 @@
 <a href="https://discord.gg/ZMHxkG7U">
   <img align="left" alt="Alexandre Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://www.instagram.com/tertuliano97/">
   <img align="left" alt="Alexandre | Instagram" width="22px" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Media-Social-Instagram-PNG-1024x993.png" />
 </a>
 <a href="https://www.linkedin.com/in/alexandre-tertuliano-a9398832/">
@@ -23,7 +23,7 @@ Minha paixão por software é sonhar com ideias e torná-las realidade com inter
   <img align="right" alt="GIF" src="https://abale.com.br/wp-content/uploads/2019/04/programar-mao-massa.gif?raw=true" width="500" height="320" />
   
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 📫 How to reach me: [@tertuliano97](https://www.instagram.com/tertuliano97/);
+- 📫 Meu Email: [**Entrar em contato**](mailto:alexandretertuliano2010@hotmail.com?subject=Hello%20again);
 
 
 **Linguagens e Ferramentas:**  
@@ -40,7 +40,12 @@ Minha paixão por software é sonhar com ideias e torná-las realidade com inter
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 📈 My GitHub Stats
