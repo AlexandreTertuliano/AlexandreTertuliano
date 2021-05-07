@@ -53,7 +53,7 @@ Minha paixão por software é sonhar com ideias e torná-las realidade com inter
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexandreTertuliano&show_icons=true&theme=gotham" alt="AlexandreTertuliano" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexandreTertuliano&show_icons=true&theme=dark" alt="AlexandreTertuliano" />
 
 
 
