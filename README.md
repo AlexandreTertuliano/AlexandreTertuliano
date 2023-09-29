@@ -1,55 +1,55 @@
-### Fala meu querido, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/ZMHxkG7U">
-  <img align="left" alt="Alexandre Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+![](https://komarev.com/ghpvc/?username=alexandretertuliano&color=006bed)
+
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formado em Sistemas de Informação pela <a href="(http://www.univas.edu.br)">UNIVAS</a>
+- 💼 Trabalhando como Desenvolvedor Mobile</a>
+
+
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android&logoColor=27AE60)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/AlexandreTertuliano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandretertuliano&theme=dracula&show_icons=true" />
 </a>
-<a href="https://www.instagram.com/tertuliano97/">
-  <img align="left" alt="Alexandre | Instagram" width="22px" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/Media-Social-Instagram-PNG-1024x993.png" />
-</a>
-<a href="https://www.linkedin.com/in/alexandre-tertuliano-a9398832/">
-  <img align="left" alt="Alexandre | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
+<h3>Onde me encontrar</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AlexandreTertuliano.AlexandreTertuliano)
-
-<br />
-
-Olá, Eu sou o Alexandre Tertuliano, sou desenvolvedor web e mobile. Estou a cada dia me aprofundando nas tecnologias que utilizo para levar ao usuário a melhor experiência possível.
-
-Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes, sempre trazendo novidades e usabilidade de fácil entendimento.
-
-
-
-  <img align="right" alt="GIF" src="https://abale.com.br/wp-content/uploads/2019/04/programar-mao-massa.gif?raw=true" width="500" height="320" />
-  
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-- 📫 Meu Email: [**Entrar em contato**](mailto:alexandretertuliano2010@hotmail.com?subject=Hello%20again);
-
-
-**Linguagens e Ferramentas:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alexandre-tertuliano-a9398832/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alexandretertuliano2010@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/AlexandreTertuliano)
 
 📈 My GitHub Stats
 
