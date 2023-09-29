@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em Sistemas de Informação pela <a href="(http://www.univas.edu.br)">UNIVAS</a>
+- 🎓 Formado em Sistemas de Informação pela <a href="http://www.univas.edu.br">UNIVAS</a>
 - 💼 Trabalhando como Desenvolvedor Mobile</a>
 
 
