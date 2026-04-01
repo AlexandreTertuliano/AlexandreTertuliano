@@ -8,9 +8,10 @@
 
 ## 👋 Sobre mim
 
-💡 Apaixonado por tecnologia e desenvolvimento mobile  
-📱 Focado em criar apps performáticos e com ótima experiência do usuário  
+💡 Apaixonado por tecnologia e desenvolvimento de software  
+📱 Especialista em desenvolvimento mobile com foco em performance e UX  
 🎓 Formado em Sistemas de Informação pela **UNIVAS**  
+🎓 Pós-graduado em **Desenvolvimento de Aplicações Mobile** e **Desenvolvimento Back-end**  
 💼 Atuando como Desenvolvedor Mobile  
 
 ---
