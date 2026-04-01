@@ -1,57 +1,75 @@
-![](https://komarev.com/ghpvc/?username=alexandretertuliano&color=006bed)
+<img src="https://komarev.com/ghpvc/?username=alexandretertuliano&color=blue" alt="Profile views"/>
 
-<h3>Sobre mim</h3>
+# 👨‍💻 Alexandre Tertuliano
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em Sistemas de Informação pela <a href="http://www.univas.edu.br">UNIVAS</a>
-- 💼 Trabalhando como Desenvolvedor Mobile</a>
+### 🚀 Desenvolvedor Mobile | Flutter • Kotlin • Swift
 
+---
 
-<h3>Minhas Skills</h3>
+## 👋 Sobre mim
 
-**Aplicações e dados**
+💡 Apaixonado por tecnologia e desenvolvimento mobile  
+📱 Focado em criar apps performáticos e com ótima experiência do usuário  
+🎓 Formado em Sistemas de Informação pela **UNIVAS**  
+💼 Atuando como Desenvolvedor Mobile  
 
+---
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## 🧠 Tecnologias & Skills
 
-**Utilidades**
+### 📱 Mobile & Backend
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-**DevOps**
+### ⚙️ Ferramentas
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### 🚀 DevOps & Versionamento
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+### 🛠️ Ferramentas de Desenvolvimento
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android&logoColor=27AE60)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<br/>
+## 📊 GitHub Stats
 
-<a href="https://github.com/AlexandreTertuliano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandretertuliano&theme=dracula&show_icons=true" />
-</a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandretertuliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretertuliano&layout=compact&theme=dracula"/>
+</div>
 
-<h3>Onde me encontrar</h3>
+---
 
-[![Linkedin](https://img.shields.io/badge/-AlexandreTertuliano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-tertuliano-a9398832/)](https://www.linkedin.com/in/alexandre-tertuliano-a9398832/)
-[![Gmail Badge](https://img.shields.io/badge/-alexandretertuliano2010@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandretertuliano2010@hotmail.com)](mailto:alexandretertuliano2010@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/alexandretertuliano?label=follow&style=social)](https://github.com/AlexandreTertuliano)
+## 🌎 Onde me encontrar
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-tertuliano-a9398832/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandretertuliano2010@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/AlexandreTertuliano)
 
+---
 
+## ⚡ Diferenciais
 
+✔ Experiência com apps em produção  
+✔ Integração com APIs e serviços externos  
+✔ Foco em performance e UX  
+✔ Facilidade em aprender novas tecnologias  
 
+---
+
+💬 *Sempre aberto a novas oportunidades e desafios!*
